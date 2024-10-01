@@ -31,6 +31,7 @@ int main()
 
 		case 4:
 			printf("The division is %f.", (float) a/b);
+			break;
 
 		default:
 			printf("We didn't provide you that option.");
