@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conditionals", "Conditional
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci", "Fibonacci\Fibonacci.vcxproj", "{29C2E874-AA31-46E6-BD56-4DC63541A799}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IfElse", "IfElse\IfElse.vcxproj", "{A48FB856-5734-4DD5-A00B-032D2113E85D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{29C2E874-AA31-46E6-BD56-4DC63541A799}.Release|x64.Build.0 = Release|x64
 		{29C2E874-AA31-46E6-BD56-4DC63541A799}.Release|x86.ActiveCfg = Release|Win32
 		{29C2E874-AA31-46E6-BD56-4DC63541A799}.Release|x86.Build.0 = Release|Win32
+		{A48FB856-5734-4DD5-A00B-032D2113E85D}.Debug|x64.ActiveCfg = Debug|x64
+		{A48FB856-5734-4DD5-A00B-032D2113E85D}.Debug|x64.Build.0 = Debug|x64
+		{A48FB856-5734-4DD5-A00B-032D2113E85D}.Debug|x86.ActiveCfg = Debug|Win32
+		{A48FB856-5734-4DD5-A00B-032D2113E85D}.Debug|x86.Build.0 = Debug|Win32
+		{A48FB856-5734-4DD5-A00B-032D2113E85D}.Release|x64.ActiveCfg = Release|x64
+		{A48FB856-5734-4DD5-A00B-032D2113E85D}.Release|x64.Build.0 = Release|x64
+		{A48FB856-5734-4DD5-A00B-032D2113E85D}.Release|x86.ActiveCfg = Release|Win32
+		{A48FB856-5734-4DD5-A00B-032D2113E85D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
