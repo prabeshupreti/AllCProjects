@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CalculatorWithSwitch", "Cal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExamResultCalculation", "ExamResultCalculation\ExamResultCalculation.vcxproj", "{1F823B5F-973F-48C4-B969-4B9D431D6C04}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CircleArea", "CircleArea\CircleArea.vcxproj", "{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{1F823B5F-973F-48C4-B969-4B9D431D6C04}.Release|x64.Build.0 = Release|x64
 		{1F823B5F-973F-48C4-B969-4B9D431D6C04}.Release|x86.ActiveCfg = Release|Win32
 		{1F823B5F-973F-48C4-B969-4B9D431D6C04}.Release|x86.Build.0 = Release|Win32
+		{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}.Debug|x64.ActiveCfg = Debug|x64
+		{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}.Debug|x64.Build.0 = Debug|x64
+		{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}.Debug|x86.Build.0 = Debug|Win32
+		{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}.Release|x64.ActiveCfg = Release|x64
+		{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}.Release|x64.Build.0 = Release|x64
+		{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}.Release|x86.ActiveCfg = Release|Win32
+		{888D2B80-E282-424C-B6A9-B6CD86D5CCFD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
