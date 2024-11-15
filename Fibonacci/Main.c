@@ -2,7 +2,8 @@
 
 int main()
 {
-	int n, first = 1, second = 1, next;
+	int n = 0;
+	int first = 1, second = 1, next = 0;
 
 	// Prompt the user for the number of terms in the Fibonacci sequence
 	printf("Enter the number of terms: ");
@@ -17,6 +18,5 @@ int main()
 		first = second;
 		second = next;
 	}
-
 	return 0;
 }
